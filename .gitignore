@@ -1,0 +1,12 @@
+__pycache__/
+.ipynb_checkpoints/
+*.pt
+*.h5
+*.pkl
+data/
+logs/
+venv/
+.DS_Store
+._.DS_Store
+**/.DS_Store
+**/._.DS_Store
